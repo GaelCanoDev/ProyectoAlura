@@ -214,6 +214,7 @@ td,th{
 .mapa-contenido{
     width: 940px;
     margin: 0 auto;
+    align-content: center;
 }
 
 .diferencial{
