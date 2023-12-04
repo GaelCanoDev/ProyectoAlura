@@ -109,6 +109,7 @@ footer{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    /* Se actualizo el fondo de color del formulario de contacto*/
 }
 form {
     margin: 40px 0;
